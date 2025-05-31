@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Aarish Quazi
 
-<!--
-**aarishquazi/aarishquazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | AI Developer | IoT Enthusiast | Python Lover
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- 🔬 Building AI & IoT systems for real-world problems
+- 💻 Creating full-stack web apps with Django & React
+- 🧠 Learning Deep Learning and GATE concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🩺 IoT & AI Health Monitoring System
+A full-stack system that collects vitals using Arduino + sensors and generates AI-driven medical reports.
+[🔗 View Project](https://github.com/aarishquazi/IOT-AND-AI-BASED-HEALTH-MONITORNG-SYSTEM) | [🌐 Live Demo](https://web-dashboard-5nyz.onrender.com)
+### 📹 YouTube Summarizer Agent
+An LLM-based tool that summarizes any YouTube video using transcripts and LangChain.
+[🔗 View Project](https://github.com/aarishquazi/youtube-summarizer-agent)
+
+## 📫 Let's Connect!
+- 📧 [Email](mailto:aarishquazi@gmail.com)
