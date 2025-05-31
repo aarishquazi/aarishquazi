@@ -5,6 +5,7 @@
 ## 💡 What I Do
 - 🔬 Building AI & IoT systems for real-world problems
 - 💻 Creating full-stack web apps with Django & React
+- 🤖 Learning GenAI and creating projects in it
 - 🧠 Learning Deep Learning and GATE concepts
 
 ## 🚀 Projects
