@@ -15,7 +15,7 @@ A full-stack system that collects vitals using Arduino + sensors and generates A
 [🔗 View Project](https://github.com/aarishquazi/IOT-AND-AI-BASED-HEALTH-MONITORNG-SYSTEM) | [🌐 Live Demo](https://web-dashboard-5nyz.onrender.com)
 ### 📹 YouTube Summarizer Agent
 An LLM-based tool that summarizes any YouTube video using transcripts and LangChain.
-[🔗 View Project](https://github.com/aarishquazi/Youtube_video_summary_agent) | [🌐 Live Demo](https://chatbot-production-3860.up.railway.app/)
+[🔗 View Project](https://github.com/aarishquazi/Youtube_video_summary_agent) 
 
 ## 📫 Let's Connect!
 - 📧 [Email](mailto:aarishquazi@gmail.com)
